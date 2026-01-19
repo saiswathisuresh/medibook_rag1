@@ -1,0 +1,1213 @@
+{
+  "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+  "book_name": "CML AP Rx",
+  "category": "non_chapter",
+  "total_chunks": 70,
+  "chunk_statistics": {
+    "total": 70,
+    "text_chunks": 70,
+    "table_chunks": 0,
+    "avg_tokens": 266,
+    "min_tokens": 73,
+    "max_tokens": 424
+  },
+  "config": {
+    "chunk_size": 325,
+    "chunk_overlap": 80,
+    "min_chunk_size": 120,
+    "max_chunk_size": 400
+  },
+  "created_at": "2026-01-19T15:21:50.581649Z",
+  "chunks": [
+    {
+      "text": "¢ Laboratory * Complete blood count (CBC) with differential count * Serum chemistries, including electrolytes, glucose, renal function tests, liver function tests * Hepatitis B serology * Clinical tests + Electrocardiogram (EKG) * Chest radiograph ¢ BCR-ABL1 - Quantitative reverse transcription polymerase chain reaction (qPCR) for BCR- ABL1 in blood or bone marrow, to establish a baseline for subsequent response monitoring. * Bone marrow morphology, including percentage of blasts, promyelocytes, and basophils. Diagnostic criteria for distinguishing AP CML from CP CML and BP CML are described below. (See 'Diagnosis of AP CML' below.) ° Karyotype - Giemsa-stained chromosome banding analysis (CBA) to confirm the presence of t(9;22) (q34;q11)/Philadelphia chromosome (Ph) and identify additional chromosomal abnormalities (ACA) in Ph+ cells. Fluorescence in situ hybridization (FISH) is not an adequate substitute for CBA, because it will not detect ACAs, but FISH should be performed if Ph is not detected by CBA.",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_0",
+        "chunk_index": 0,
+        "chunk_type": "text",
+        "has_overlap": false,
+        "token_estimate": 255,
+        "char_count": 1020,
+        "source_type": "section",
+        "section_title": "Cancer Screening in Women",
+        "page_range": "2-3"
+      }
+    },
+    {
+      "text": "Fluorescence in situ hybridization (FISH) is not an adequate substitute for CBA, because it will not detect ACAs, but FISH should be performed if Ph is not detected by CBA. Mutation testing — BCR-ABL7 kinase domain mutations inform the choice of TKI, as described below. (See 'Mutation-guided' below.) Mutation analysis is required for patients with transformed AP CML (ie, AP CML that arose during TKI treatment for CP CML), but it is not required for patients who initially presented with AP CML (ie, de novo AP CML). Hematopoietic cell transplantation evaluation — For patients who may require allogeneic hematopoietic cell transplantation (HCT), it is important to determine eligibility and initiate a donor search. (See \"Determining eligibility for allogeneic hematopoietic cell transplantation\".)",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_1",
+        "chunk_index": 1,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 200,
+        "char_count": 802,
+        "source_type": "section",
+        "section_title": "Cancer Screening in Women",
+        "page_range": "2-3"
+      }
+    },
+    {
+      "text": "¢ Laboratory * Complete blood count (CBC) with differential count * Serum chemistries, including electrolytes, glucose, renal function tests, liver function tests * Hepatitis B serology * Clinical tests + Electrocardiogram (EKG) * Chest radiograph ¢ BCR-ABL1 - Quantitative reverse transcription polymerase chain reaction (qPCR) for BCR- ABL1 in blood or bone marrow, to establish a baseline for subsequent response monitoring. * Bone marrow morphology, including percentage of blasts, promyelocytes, and basophils. Diagnostic criteria for distinguishing AP CML from CP CML and BP CML are described below. (See 'Diagnosis of AP CML' below.) ° Karyotype - Giemsa-stained chromosome banding analysis (CBA) to confirm the presence of t(9;22) (q34;q11)/Philadelphia chromosome (Ph) and identify additional chromosomal abnormalities (ACA) in Ph+ cells. Fluorescence in situ hybridization (FISH) is not an adequate substitute for CBA, because it will not detect ACAs, but FISH should be performed if Ph is not detected by CBA.",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_2",
+        "chunk_index": 2,
+        "chunk_type": "text",
+        "has_overlap": false,
+        "token_estimate": 255,
+        "char_count": 1020,
+        "source_type": "section",
+        "section_title": "Tumor Markers in Gynecological Oncology",
+        "page_range": "3-4"
+      }
+    },
+    {
+      "text": "Fluorescence in situ hybridization (FISH) is not an adequate substitute for CBA, because it will not detect ACAs, but FISH should be performed if Ph is not detected by CBA. Mutation testing — BCR-ABL7 kinase domain mutations inform the choice of TKI, as described below. (See 'Mutation-guided' below.) Mutation analysis is required for patients with transformed AP CML (ie, AP CML that arose during TKI treatment for CP CML), but it is not required for patients who initially presented with AP CML (ie, de novo AP CML). Hematopoietic cell transplantation evaluation — For patients who may require allogeneic hematopoietic cell transplantation (HCT), it is important to determine eligibility and initiate a donor search. (See \"Determining eligibility for allogeneic hematopoietic cell transplantation\".)",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_3",
+        "chunk_index": 3,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 200,
+        "char_count": 802,
+        "source_type": "section",
+        "section_title": "Tumor Markers in Gynecological Oncology",
+        "page_range": "3-4"
+      }
+    },
+    {
+      "text": "¢ New ACA while on treatment - Development of any new ACA (ie, major or minor route) in Ph+ cells while receiving treatment with a BCR-ABL1 tyrosine kinase inhibitor (TKI). According to WHO criteria, BP CML is diagnosed and distinguished from AP CML based on either infiltrative blasts in an extramedullary site or 220 percent blasts in blood or bone marrow [2].",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_4",
+        "chunk_index": 4,
+        "chunk_type": "text",
+        "has_overlap": false,
+        "token_estimate": 90,
+        "char_count": 362,
+        "source_type": "section",
+        "section_title": "Epidemiology",
+        "page_range": "4-5"
+      }
+    },
+    {
+      "text": "According to WHO criteria, BP CML is diagnosed and distinguished from AP CML based on either infiltrative blasts in an extramedullary site or 220 percent blasts in blood or bone marrow [2]. Other models ¢ European LeukemiaNet (ELN) - ELN diagnostic criteria for AP CML [3] follow: + Blasts in blood or marrow 15 to 29 percent or blasts plus promyelocytes >30 percent (with <30 percent blasts) * Basophils 220 percent in blood + Persistent thrombocytopenia <100 x 109/L, unrelated to therapy * Major route ACA (described above) in Ph+ cells that develops while receiving TKI treatment In the ELN model, major route ACAs establish the diagnosis of AP CML only if they develop while on TKI treatment; by contrast, the WHO diagnoses AP CML if a major route ACA is present at the time of initial diagnosis or if any ACA develops while on treatment [2,3]. ¢ MDACC (MD Anderson Cancer Center) - The MDACC model diagnoses AP CML as follows [4]: * Blasts in blood or marrow 15 to 29 percent; blasts plus promyelocytes >30 percent * Basophils 220 percent in blood * Persistent thrombocytopenia <100 x 10°/L, unrelated to therapy * ACA (either major route ACA or other) in Ph+ cells * Sokal - We consider the Sokal model to be less helpful, because it is primarily based on clinical findings (eg, progressive splenomegaly, anemia unrelated to therapy, marrow fibrosis, unexplained fever) [5]. MANAGEMENT",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_5",
+        "chunk_index": 5,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 348,
+        "char_count": 1392,
+        "source_type": "section",
+        "section_title": "Epidemiology",
+        "page_range": "4-5"
+      }
+    },
+    {
+      "text": "¢ New ACA while on treatment - Development of any new ACA (ie, major or minor route) in Ph+ cells while receiving treatment with a BCR-ABL1 tyrosine kinase inhibitor (TKI). According to WHO criteria, BP CML is diagnosed and distinguished from AP CML based on either infiltrative blasts in an extramedullary site or 220 percent blasts in blood or bone marrow [2].",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_6",
+        "chunk_index": 6,
+        "chunk_type": "text",
+        "has_overlap": false,
+        "token_estimate": 90,
+        "char_count": 362,
+        "source_type": "section",
+        "section_title": "Biological Therapy for Gynecologic Cancers",
+        "page_range": "5-6"
+      }
+    },
+    {
+      "text": "According to WHO criteria, BP CML is diagnosed and distinguished from AP CML based on either infiltrative blasts in an extramedullary site or 220 percent blasts in blood or bone marrow [2]. Other models ¢ European LeukemiaNet (ELN) - ELN diagnostic criteria for AP CML [3] follow: + Blasts in blood or marrow 15 to 29 percent or blasts plus promyelocytes >30 percent (with <30 percent blasts) * Basophils 220 percent in blood + Persistent thrombocytopenia <100 x 109/L, unrelated to therapy * Major route ACA (described above) in Ph+ cells that develops while receiving TKI treatment In the ELN model, major route ACAs establish the diagnosis of AP CML only if they develop while on TKI treatment; by contrast, the WHO diagnoses AP CML if a major route ACA is present at the time of initial diagnosis or if any ACA develops while on treatment [2,3]. ¢ MDACC (MD Anderson Cancer Center) - The MDACC model diagnoses AP CML as follows [4]: * Blasts in blood or marrow 15 to 29 percent; blasts plus promyelocytes >30 percent * Basophils 220 percent in blood * Persistent thrombocytopenia <100 x 10°/L, unrelated to therapy * ACA (either major route ACA or other) in Ph+ cells * Sokal - We consider the Sokal model to be less helpful, because it is primarily based on clinical findings (eg, progressive splenomegaly, anemia unrelated to therapy, marrow fibrosis, unexplained fever) [5]. MANAGEMENT",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_7",
+        "chunk_index": 7,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 348,
+        "char_count": 1392,
+        "source_type": "section",
+        "section_title": "Biological Therapy for Gynecologic Cancers",
+        "page_range": "5-6"
+      }
+    },
+    {
+      "text": "We generally proceed to allogeneic HCT as soon as the disease can be brought under control with a TKI. Treatment with a TKI does not compromise transplant outcomes or increase transplant-related toxicity [16-22]. * Outcomes - Outcomes with allogeneic HCT for AP CML vary because of different eligibility criteria and small numbers of patients in most studies. A retrospective analysis of registry data that included 168 patients with AP CML reported no difference in OS between allogeneic HCT and treatment with a TKI alone; however, the conclusions were limited by varying definitions of AP, inclusion of both de novo and transformed AP CML, and unbalanced numbers of patients in the cohorts [23]. A multicenter study of transplantation in 28 patients with advanced phase CML (ie, both AP CML and BP CML) reported 59 percent three-year OS [24]. A single-center study reported 45 percent long-term survival after allogeneic HCT for 40 patients with advanced phase CML [25]. A registry study reported 37 percent five-year OS among 14 patients with advanced phase CML; non-relapse mortality was 12 percent, but this included patients with AP CML and CP CML [26].",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_8",
+        "chunk_index": 8,
+        "chunk_type": "text",
+        "has_overlap": false,
+        "token_estimate": 290,
+        "char_count": 1160,
+        "source_type": "section",
+        "section_title": "Radiation Therapy",
+        "page_range": "7-8"
+      }
+    },
+    {
+      "text": "A single-center study reported 45 percent long-term survival after allogeneic HCT for 40 patients with advanced phase CML [25]. A registry study reported 37 percent five-year OS among 14 patients with advanced phase CML; non-relapse mortality was 12 percent, but this included patients with AP CML and CP CML [26]. Donor selection, graft source, conditioning regimen, prophylaxis for graft-versus-host disease (GVHD), and further details of outcomes with allogeneic HCT for CML are discussed separately. (See \"Hematopoietic cell transplantation in chronic myeloid leukemia\".) Not transplant-eligible — For patients with transformed AP CML who are not suitable for allogeneic HCT (eg, not medically-fit, no suitable donor, or the patient declines), we select a TKI according to BCR-ABL1 mutation analysis, comorbid conditions, and toxicity profile, as described below. (See 'Tyrosine kinase inhibitor selection’ below.) TYROSINE KINASE INHIBITOR SELECTION The following should be considered when selecting a BCR-ABL1 tyrosine kinase inhibitor (TKI) for treatment of accelerated phase (AP) CML: ¢ Mutation status - BCR-ABL1 kinase domain mutation testing should be performed for all patients with transformed AP CML. We do not routinely perform mutation testing in patients who present with de novo AP CML. We do not routinely perform mutation testing in patients who present with de novo AP CML. Selection of a TKI based on mutation status is discussed below. (See 'Mutation-guided' below.)",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_9",
+        "chunk_index": 9,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 372,
+        "char_count": 1489,
+        "source_type": "section",
+        "section_title": "Radiation Therapy",
+        "page_range": "7-8"
+      }
+    },
+    {
+      "text": "We generally proceed to allogeneic HCT as soon as the disease can be brought under control with a TKI. Treatment with a TKI does not compromise transplant outcomes or increase transplant-related toxicity [16-22]. * Outcomes - Outcomes with allogeneic HCT for AP CML vary because of different eligibility criteria and small numbers of patients in most studies. A retrospective analysis of registry data that included 168 patients with AP CML reported no difference in OS between allogeneic HCT and treatment with a TKI alone; however, the conclusions were limited by varying definitions of AP, inclusion of both de novo and transformed AP CML, and unbalanced numbers of patients in the cohorts [23]. A multicenter study of transplantation in 28 patients with advanced phase CML (ie, both AP CML and BP CML) reported 59 percent three-year OS [24]. A single-center study reported 45 percent long-term survival after allogeneic HCT for 40 patients with advanced phase CML [25]. A registry study reported 37 percent five-year OS among 14 patients with advanced phase CML; non-relapse mortality was 12 percent, but this included patients with AP CML and CP CML [26].",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_10",
+        "chunk_index": 10,
+        "chunk_type": "text",
+        "has_overlap": false,
+        "token_estimate": 290,
+        "char_count": 1160,
+        "source_type": "section",
+        "section_title": "Cervical Intra-Epithelial Neoplasia",
+        "page_range": "8-9"
+      }
+    },
+    {
+      "text": "A single-center study reported 45 percent long-term survival after allogeneic HCT for 40 patients with advanced phase CML [25]. A registry study reported 37 percent five-year OS among 14 patients with advanced phase CML; non-relapse mortality was 12 percent, but this included patients with AP CML and CP CML [26]. Donor selection, graft source, conditioning regimen, prophylaxis for graft-versus-host disease (GVHD), and further details of outcomes with allogeneic HCT for CML are discussed separately. (See \"Hematopoietic cell transplantation in chronic myeloid leukemia\".) Not transplant-eligible — For patients with transformed AP CML who are not suitable for allogeneic HCT (eg, not medically-fit, no suitable donor, or the patient declines), we select a TKI according to BCR-ABL1 mutation analysis, comorbid conditions, and toxicity profile, as described below. (See 'Tyrosine kinase inhibitor selection’ below.) TYROSINE KINASE INHIBITOR SELECTION The following should be considered when selecting a BCR-ABL1 tyrosine kinase inhibitor (TKI) for treatment of accelerated phase (AP) CML: ¢ Mutation status - BCR-ABL1 kinase domain mutation testing should be performed for all patients with transformed AP CML. We do not routinely perform mutation testing in patients who present with de novo AP CML. We do not routinely perform mutation testing in patients who present with de novo AP CML. Selection of a TKI based on mutation status is discussed below. (See 'Mutation-guided' below.)",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_11",
+        "chunk_index": 11,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 372,
+        "char_count": 1489,
+        "source_type": "section",
+        "section_title": "Cervical Intra-Epithelial Neoplasia",
+        "page_range": "8-9"
+      }
+    },
+    {
+      "text": "function, and fluid retention. ¢ Administration - Bosutinib 500 mg once daily; note that the recommended dose for AP CML differs from that in CP CML [33]. ¢ Adverse effects - Treatment is associated with diarrhea, nausea, and abdominal pain; the most common grade 23 AEs are diarrhea and abnormal liver function tests; there is a low incidence of cardiac and vascular AEs with bosutinib treatment with 24 year follow-up [34]. ¢ Outcomes - Treatment of 72 patients with AP CML was associated with 57 percent overall hematologic response (31 percent CHR) by week 48; transformation to blast phase was reported in three patients [33]. In another report, 57 percent of 14 patients with AP CML attained or maintained baseline overall hematologic response and 40 percent attained or maintained MCyR [15]. The US FDA [33] and EMA recommend bosutinib 500 mg once daily for AP CML. Ponatinib — Ponatinib, the only third-generation TKI, is associated with significant cardiovascular (CV) risks and complications, but it is the only TKI that is effective against the BCR-ABL1 T315I kinase domain mutation.",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_12",
+        "chunk_index": 12,
+        "chunk_type": "text",
+        "has_overlap": false,
+        "token_estimate": 273,
+        "char_count": 1094,
+        "source_type": "section",
+        "section_title": "Uterine Sarcomas",
+        "page_range": "11-12"
+      }
+    },
+    {
+      "text": "The US FDA [33] and EMA recommend bosutinib 500 mg once daily for AP CML. Ponatinib — Ponatinib, the only third-generation TKI, is associated with significant cardiovascular (CV) risks and complications, but it is the only TKI that is effective against the BCR-ABL1 T315I kinase domain mutation. For patients with the T315I mutation who have substantial CV risk factors, other treatments may be preferred. (See ‘Other treatments’ below.) ¢ Administration - Ponatinib 45 mg should be taken once daily, with or without food. We do not reduce the ponatinib dose in patients with AP CML because it is uncertain if this will compromise response and/or reduce AEs in patients with AP CML. However, some experts reduce ponatinib to 30 mg for AP CML for BCR-ABL1 <1 percent [35]. Many clinicians co- administer aspirin to mitigate CV complications of ponatinib, but this has not been shown to be beneficial. ¢ Adverse effects - Treatment with ponatinib is associated with CV AEs in more than one- fifth of patients, arterial thrombosis in 8 percent, and liver toxicity/failure is possible [36,37]. * Outcomes - A phase 2 study (PACE) reported outcomes with ponatinib in 83 patients with AP CML (resistant or intolerant to dasatinib or nilotinib), including patients with BCR-ABL1 T315I mutations [38]. At five years, progression-free survival and OS were 22 and 49 percent, respectively. Other outcomes included MHR (61 percent), MCyR (49 percent), CCyR (31 percent), and major molecular response (MMR; 22 percent). In the PACE study, grade 23 thrombocytopenia, neutropenia, and anemia occurred in 44, 37, and 22 percent, respectively. The most common non-hematological toxicities were abdominal pain (42",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_13",
+        "chunk_index": 13,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 424,
+        "char_count": 1696,
+        "source_type": "section",
+        "section_title": "Uterine Sarcomas",
+        "page_range": "11-12"
+      }
+    },
+    {
+      "text": "function, and fluid retention. ¢ Administration - Bosutinib 500 mg once daily; note that the recommended dose for AP CML differs from that in CP CML [33]. ¢ Adverse effects - Treatment is associated with diarrhea, nausea, and abdominal pain; the most common grade 23 AEs are diarrhea and abnormal liver function tests; there is a low incidence of cardiac and vascular AEs with bosutinib treatment with 24 year follow-up [34]. ¢ Outcomes - Treatment of 72 patients with AP CML was associated with 57 percent overall hematologic response (31 percent CHR) by week 48; transformation to blast phase was reported in three patients [33]. In another report, 57 percent of 14 patients with AP CML attained or maintained baseline overall hematologic response and 40 percent attained or maintained MCyR [15]. The US FDA [33] and EMA recommend bosutinib 500 mg once daily for AP CML. Ponatinib — Ponatinib, the only third-generation TKI, is associated with significant cardiovascular (CV) risks and complications, but it is the only TKI that is effective against the BCR-ABL1 T315I kinase domain mutation.",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_14",
+        "chunk_index": 14,
+        "chunk_type": "text",
+        "has_overlap": false,
+        "token_estimate": 273,
+        "char_count": 1094,
+        "source_type": "section",
+        "section_title": "Epithelial Ovarian Cancer",
+        "page_range": "12-13"
+      }
+    },
+    {
+      "text": "The US FDA [33] and EMA recommend bosutinib 500 mg once daily for AP CML. Ponatinib — Ponatinib, the only third-generation TKI, is associated with significant cardiovascular (CV) risks and complications, but it is the only TKI that is effective against the BCR-ABL1 T315I kinase domain mutation. For patients with the T315I mutation who have substantial CV risk factors, other treatments may be preferred. (See ‘Other treatments’ below.) ¢ Administration - Ponatinib 45 mg should be taken once daily, with or without food. We do not reduce the ponatinib dose in patients with AP CML because it is uncertain if this will compromise response and/or reduce AEs in patients with AP CML. However, some experts reduce ponatinib to 30 mg for AP CML for BCR-ABL1 <1 percent [35]. Many clinicians co- administer aspirin to mitigate CV complications of ponatinib, but this has not been shown to be beneficial. ¢ Adverse effects - Treatment with ponatinib is associated with CV AEs in more than one- fifth of patients, arterial thrombosis in 8 percent, and liver toxicity/failure is possible [36,37]. * Outcomes - A phase 2 study (PACE) reported outcomes with ponatinib in 83 patients with AP CML (resistant or intolerant to dasatinib or nilotinib), including patients with BCR-ABL1 T315I mutations [38].",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_15",
+        "chunk_index": 15,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 323,
+        "char_count": 1293,
+        "source_type": "section",
+        "section_title": "Epithelial Ovarian Cancer",
+        "page_range": "12-13"
+      }
+    },
+    {
+      "text": "At five years, progression-free survival and OS were 22 and 49 percent, respectively. Other outcomes included MHR (61 percent), MCyR (49 percent), CCyR (31 percent), and major molecular response (MMR; 22 percent). In the PACE study, grade 23 thrombocytopenia, neutropenia, and anemia occurred in 44, 37, and 22 percent, respectively. The most common non-hematological toxicities were abdominal pain (42\npercent), rash (38 percent), constipation (29 percent), dry skin (32 percent), and fatigue (38 percent) [38]. CV, cerebrovascular, and peripheral vascular events occurred in 7, 4, and 5 percent, respectively; most of these patients had at least one other risk factor (eg, hypertension, diabetes, hypercholesterolemia, obesity). Of the patients who continued ponatinib after a vascular event, 36 percent had subsequent events. Overall, severe AEs led to the discontinuation of therapy in 11 percent of patients; two patients died, including one death that was thought to be related to ponatinib (fungal pneumonia). In another study, ponatinib treatment of 83 patients with AP CML was associated with 52 percent MHR (47 percent CHR) [36]. Ponatinib is approved for treatment of AP CML in which no other TKIs are indicated and for patients with BCR-ABL1 T315I mutation by the US FDA [36] and the EMA.",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_16",
+        "chunk_index": 16,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 325,
+        "char_count": 1300,
+        "source_type": "section",
+        "section_title": "Epithelial Ovarian Cancer",
+        "page_range": "12-13"
+      }
+    },
+    {
+      "text": "In another study, ponatinib treatment of 83 patients with AP CML was associated with 52 percent MHR (47 percent CHR) [36]. Ponatinib is approved for treatment of AP CML in which no other TKIs are indicated and for patients with BCR-ABL1 T315I mutation by the US FDA [36] and the EMA. OTHER TREATMENTS Other treatments, alone or in combination with a tyrosine kinase inhibitor (TKI), are under investigation. Examples include: ¢ Asciminib - Asciminib is an allosteric inhibitor of BCR-ABL1 that specifically targets the ABL myristoyl pocket (STAMP). Asciminib is approved by the US Food and Drug Administration (FDA) for chronic phase (CP) CML that is resistant to 22 TKIs, including patients who harbor the BCR-ABL7 T315I mutation. The multicenter phase 3 ASCEMBL trial reported that asciminib had superior efficacy compared with bosutinib in patients with CP CML who had previously received 22 TKIs [39]. Patients were randomly assigned (2:1) to receive asciminib 40 mg twice daily versus bosutinib 500 mg once daily. Major molecular response (MMR) rate at week 24 was 26 percent with asciminib compared with 13 percent with bosutinib. Asciminib was also associated with fewer grade 23 adverse events (AE; 51 versus 61 percent, respectively) and fewer AEs leading to treatment discontinuation (6 versus 21 percent).",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_17",
+        "chunk_index": 17,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 329,
+        "char_count": 1316,
+        "source_type": "section",
+        "section_title": "Epithelial Ovarian Cancer",
+        "page_range": "12-13"
+      }
+    },
+    {
+      "text": "Major molecular response (MMR) rate at week 24 was 26 percent with asciminib compared with 13 percent with bosutinib. Asciminib was also associated with fewer grade 23 adverse events (AE; 51 versus 61 percent, respectively) and fewer AEs leading to treatment discontinuation (6 versus 21 percent). Treatment with asciminib in eight patients with AP CML reported complete hematologic response (CHR) in seven of eight patients and complete cytogenetic response (CCyR) and MMR in one of six patients [40]. Asciminib was active in patients who had resistance to or unacceptable AEs from TKIs, including patients with a T315I mutation in whom ponatinib had failed.",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_18",
+        "chunk_index": 18,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 164,
+        "char_count": 659,
+        "source_type": "section",
+        "section_title": "Epithelial Ovarian Cancer",
+        "page_range": "12-13"
+      }
+    },
+    {
+      "text": "percent), rash (38 percent), constipation (29 percent), dry skin (32 percent), and fatigue (38 percent) [38]. CV, cerebrovascular, and peripheral vascular events occurred in 7, 4, and 5 percent, respectively; most of these patients had at least one other risk factor (eg, hypertension, diabetes, hypercholesterolemia, obesity). Of the patients who continued ponatinib after a vascular event, 36 percent had subsequent events. Overall, severe AEs led to the discontinuation of therapy in 11 percent of patients; two patients died, including one death that was thought to be related to ponatinib (fungal pneumonia). In another study, ponatinib treatment of 83 patients with AP CML was associated with 52 percent MHR (47 percent CHR) [36]. Ponatinib is approved for treatment of AP CML in which no other TKIs are indicated and for patients with BCR-ABL1 T315I mutation by the US FDA [36] and the EMA. OTHER TREATMENTS Other treatments, alone or in combination with a tyrosine kinase inhibitor (TKI), are under investigation. Examples include: ¢ Asciminib - Asciminib is an allosteric inhibitor of BCR-ABL1 that specifically targets the ABL myristoyl pocket (STAMP).",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_19",
+        "chunk_index": 19,
+        "chunk_type": "text",
+        "has_overlap": false,
+        "token_estimate": 290,
+        "char_count": 1162,
+        "source_type": "section",
+        "section_title": "Fallopian Tube Carcinoma",
+        "page_range": "13-14"
+      }
+    },
+    {
+      "text": "OTHER TREATMENTS Other treatments, alone or in combination with a tyrosine kinase inhibitor (TKI), are under investigation. Examples include: ¢ Asciminib - Asciminib is an allosteric inhibitor of BCR-ABL1 that specifically targets the ABL myristoyl pocket (STAMP). Asciminib is approved by the US Food and Drug Administration (FDA) for chronic phase (CP) CML that is resistant to 22 TKIs, including patients who harbor the BCR-ABL7 T315I mutation. The multicenter phase 3 ASCEMBL trial reported that asciminib had superior efficacy compared with bosutinib in patients with CP CML who had previously received 22 TKIs [39]. Patients were randomly assigned (2:1) to receive asciminib 40 mg twice daily versus bosutinib 500 mg once daily. Major molecular response (MMR) rate at week 24 was 26 percent with asciminib compared with 13 percent with bosutinib. Asciminib was also associated with fewer grade 23 adverse events (AE; 51 versus 61 percent, respectively) and fewer AEs leading to treatment discontinuation (6 versus 21 percent). Treatment with asciminib in eight patients with AP CML reported complete hematologic response (CHR) in seven of eight patients and complete cytogenetic response (CCyR) and MMR in one of six patients [40]. Treatment with asciminib in eight patients with AP CML reported complete hematologic response (CHR) in seven of eight patients and complete cytogenetic response (CCyR) and MMR in one of six patients [40]. Asciminib was active in patients who had resistance to or unacceptable AEs from TKIs, including patients with a T315I mutation in whom ponatinib had failed.",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_20",
+        "chunk_index": 20,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 399,
+        "char_count": 1599,
+        "source_type": "section",
+        "section_title": "Fallopian Tube Carcinoma",
+        "page_range": "13-14"
+      }
+    },
+    {
+      "text": "polymerase chain reaction (qPCR). The qPCR assay should be standardized and have a sensitivity of 24.5-log reduction from the baseline. Optimal responses are: ¢ 3 months: BCR-ABL1 (International Scale [IS]) $10 percent and/or <35 percent Philadelphia chromosome-positive (Ph+) metaphase cells * 6 months: BCR-ABL17 IS <1 percent and/or 0 percent Ph+ cells ¢ 12 months: BCR-ABL17 IS <0.1 percent After BCR-ABL1 is $0.1 percent, it should be measured every three months for the first two years and then every three to six months thereafter. At very low levels, the level of transcripts can fluctuate several-fold with successive tests. However, if there is a 1-log increase in BCR-ABL1 after achieving a 3-log molecular response (MR3), this should be confirmed by repeating qPCR in one to three months.",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_21",
+        "chunk_index": 21,
+        "chunk_type": "text",
+        "has_overlap": false,
+        "token_estimate": 200,
+        "char_count": 800,
+        "source_type": "section",
+        "section_title": "Ovarian Sex Cord-Stromal Tumors",
+        "page_range": "14-15"
+      }
+    },
+    {
+      "text": "At very low levels, the level of transcripts can fluctuate several-fold with successive tests. However, if there is a 1-log increase in BCR-ABL1 after achieving a 3-log molecular response (MR3), this should be confirmed by repeating qPCR in one to three months. Further details and definitions of hematologic, cytogenetic, and molecular milestones are presented separately. (See \"Initial treatment of chronic myeloid leukemia in chronic phase\", section on 'Response monitoring’.) PROGNOSTIC FACTORS Features that have been associated with outcomes in patients with accelerated phase (AP) CML include: ¢ de novo versus transformed AP CML - The distinction between de novo and transformed AP CML has prognostic importance, but also guides the approach to initial treatment. (See ‘Treatment of de novo AP CML’ above and 'Treatment of transformed AP CML' above.) ¢ Major route additional chromosomal abnormalities (ACA) versus minor route ACA - Major route ACAs (ie, second Philadelphia chromosome, trisomy 8, isochromosome 17q, trisomy 19) are associated with an adverse impact on survival [51-53]. The impact of minor route ACAs is currently less well-defined. * Increased blasts - AP CML that was diagnosed because of increased blasts is associated with worse prognosis than AP CML that was diagnosed on the basis of other criteria (eg, basophils, ACAs) [1,54]. ¢ Rate of response to treatment - Early response is predictive of long-term outcome. In a retrospective study, among 75 patients with AP CML, those who achieved BCR-ABL1 <10",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_22",
+        "chunk_index": 22,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 383,
+        "char_count": 1534,
+        "source_type": "section",
+        "section_title": "Ovarian Sex Cord-Stromal Tumors",
+        "page_range": "14-15"
+      }
+    },
+    {
+      "text": "polymerase chain reaction (qPCR). The qPCR assay should be standardized and have a sensitivity of 24.5-log reduction from the baseline. Optimal responses are: ¢ 3 months: BCR-ABL1 (International Scale [IS]) $10 percent and/or <35 percent Philadelphia chromosome-positive (Ph+) metaphase cells * 6 months: BCR-ABL17 IS <1 percent and/or 0 percent Ph+ cells ¢ 12 months: BCR-ABL17 IS <0.1 percent After BCR-ABL1 is $0.1 percent, it should be measured every three months for the first two years and then every three to six months thereafter. At very low levels, the level of transcripts can fluctuate several-fold with successive tests. However, if there is a 1-log increase in BCR-ABL1 after achieving a 3-log molecular response (MR3), this should be confirmed by repeating qPCR in one to three months.",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_23",
+        "chunk_index": 23,
+        "chunk_type": "text",
+        "has_overlap": false,
+        "token_estimate": 200,
+        "char_count": 800,
+        "source_type": "section",
+        "section_title": "Germ Cell and Metastatic Tumors of the Ovary",
+        "page_range": "15-16"
+      }
+    },
+    {
+      "text": "At very low levels, the level of transcripts can fluctuate several-fold with successive tests. However, if there is a 1-log increase in BCR-ABL1 after achieving a 3-log molecular response (MR3), this should be confirmed by repeating qPCR in one to three months. Further details and definitions of hematologic, cytogenetic, and molecular milestones are presented separately. (See \"Initial treatment of chronic myeloid leukemia in chronic phase\", section on 'Response monitoring’.) PROGNOSTIC FACTORS Features that have been associated with outcomes in patients with accelerated phase (AP) CML include: ¢ de novo versus transformed AP CML - The distinction between de novo and transformed AP CML has prognostic importance, but also guides the approach to initial treatment. (See ‘Treatment of de novo AP CML’ above and 'Treatment of transformed AP CML' above.) ¢ Major route additional chromosomal abnormalities (ACA) versus minor route ACA - Major route ACAs (ie, second Philadelphia chromosome, trisomy 8, isochromosome 17q, trisomy 19) are associated with an adverse impact on survival [51-53].",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_24",
+        "chunk_index": 24,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 273,
+        "char_count": 1095,
+        "source_type": "section",
+        "section_title": "Germ Cell and Metastatic Tumors of the Ovary",
+        "page_range": "15-16"
+      }
+    },
+    {
+      "text": "The impact of minor route ACAs is currently less well-defined. * Increased blasts - AP CML that was diagnosed because of increased blasts is associated with worse prognosis than AP CML that was diagnosed on the basis of other criteria (eg, basophils, ACAs) [1,54]. ¢ Rate of response to treatment - Early response is predictive of long-term outcome. In a retrospective study, among 75 patients with AP CML, those who achieved BCR-ABL1 <10\npercent at three months had better overall survival and event-free survival (both 95 percent) compared to those who did not (79 and 59 percent, respectively) [55]. ¢ Molecular abnormalities - Mutations of certain genes are found with high frequency in AP CML, but their prognostic importance is presently uncertain. As examples, single nucleotide variations (SNVs) and small insertions or deletions (indels) in RUNX71 and ASXL17, plus IKZF1 exon deletions; mutations of epigenetic regulators; and gene fusions involving RUNX1, MLL (KMT2A), and CBFB are common in AP CML [56,57].",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_25",
+        "chunk_index": 25,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 254,
+        "char_count": 1017,
+        "source_type": "section",
+        "section_title": "Germ Cell and Metastatic Tumors of the Ovary",
+        "page_range": "15-16"
+      }
+    },
+    {
+      "text": "As examples, single nucleotide variations (SNVs) and small insertions or deletions (indels) in RUNX71 and ASXL17, plus IKZF1 exon deletions; mutations of epigenetic regulators; and gene fusions involving RUNX1, MLL (KMT2A), and CBFB are common in AP CML [56,57]. SOCIETY GUIDELINE LINKS Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately. (See \"Society guideline links: Chronic myeloid leukemia\".) INFORMATION FOR PATIENTS UpToDate offers two types of patient education materials, \"The Basics\" and \"Beyond the Basics.\" The Basics patient education pieces are written in plain language, at the 5\" to 6\" grade reading level, and they answer the four or five key questions a patient might have about a given condition. These articles are best for patients who want a general overview and who prefer short, easy-to-read materials. Beyond the Basics patient education pieces are longer, more sophisticated, and more detailed. These articles are written at the 10‘ to 12\" grade reading level and are best for patients who want in-depth information and are comfortable with some medical jargon. Here are the patient education articles that are relevant to this topic.",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_26",
+        "chunk_index": 26,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 309,
+        "char_count": 1239,
+        "source_type": "section",
+        "section_title": "Germ Cell and Metastatic Tumors of the Ovary",
+        "page_range": "15-16"
+      }
+    },
+    {
+      "text": "These articles are written at the 10‘ to 12\" grade reading level and are best for patients who want in-depth information and are comfortable with some medical jargon. Here are the patient education articles that are relevant to this topic. We encourage you to print or e-mail these topics to your patients. (You can also locate patient education articles ona variety of subjects by searching on \"patient education\" and the keyword(s) of interest.) * Beyond the Basics topics (see \"Patient education: Chronic myeloid leukemia (CML) in adults (Beyond the Basics)\") SUMMARY AND RECOMMENDATIONS ¢ Chronic myeloid leukemia (CML) is associated with t(9;22)(q34;q11), the Philadelphia chromosome (Ph), which creates the BCR-ABL1 fusion gene and a constitutively active",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_27",
+        "chunk_index": 27,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 190,
+        "char_count": 761,
+        "source_type": "section",
+        "section_title": "Germ Cell and Metastatic Tumors of the Ovary",
+        "page_range": "15-16"
+      }
+    },
+    {
+      "text": "percent at three months had better overall survival and event-free survival (both 95 percent) compared to those who did not (79 and 59 percent, respectively) [55]. ¢ Molecular abnormalities - Mutations of certain genes are found with high frequency in AP CML, but their prognostic importance is presently uncertain. As examples, single nucleotide variations (SNVs) and small insertions or deletions (indels) in RUNX71 and ASXL17, plus IKZF1 exon deletions; mutations of epigenetic regulators; and gene fusions involving RUNX1, MLL (KMT2A), and CBFB are common in AP CML [56,57]. SOCIETY GUIDELINE LINKS Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately. (See \"Society guideline links: Chronic myeloid leukemia\".) INFORMATION FOR PATIENTS UpToDate offers two types of patient education materials, \"The Basics\" and \"Beyond the Basics.\" The Basics patient education pieces are written in plain language, at the 5\" to 6\" grade reading level, and they answer the four or five key questions a patient might have about a given condition. These articles are best for patients who want a general overview and who prefer short, easy-to-read materials. Beyond the Basics patient education pieces are longer, more sophisticated, and more detailed.",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_28",
+        "chunk_index": 28,
+        "chunk_type": "text",
+        "has_overlap": false,
+        "token_estimate": 328,
+        "char_count": 1315,
+        "source_type": "section",
+        "section_title": "Vulvar Cancer",
+        "page_range": "16-17"
+      }
+    },
+    {
+      "text": "These articles are best for patients who want a general overview and who prefer short, easy-to-read materials. Beyond the Basics patient education pieces are longer, more sophisticated, and more detailed. These articles are written at the 10‘ to 12\" grade reading level and are best for patients who want in-depth information and are comfortable with some medical jargon. Here are the patient education articles that are relevant to this topic. We encourage you to print or e-mail these topics to your patients. (You can also locate patient education articles ona variety of subjects by searching on \"patient education\" and the keyword(s) of interest.) * Beyond the Basics topics (see \"Patient education: Chronic myeloid leukemia (CML) in adults (Beyond the Basics)\") SUMMARY AND RECOMMENDATIONS ¢ Chronic myeloid leukemia (CML) is associated with t(9;22)(q34;q11), the Philadelphia chromosome (Ph), which creates the BCR-ABL1 fusion gene and a constitutively active\ntyrosine kinase that is sensitive to treatment with a BCR-ABL1 tyrosine kinase inhibitor (TKI).",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_29",
+        "chunk_index": 29,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 265,
+        "char_count": 1062,
+        "source_type": "section",
+        "section_title": "Vulvar Cancer",
+        "page_range": "16-17"
+      }
+    },
+    {
+      "text": "Up to 90 percent of patients with CML present in chronic phase (CP) CML, which is a relatively indolent disorder that responds well to TKIs; the remainder present with either accelerated phase (AP) CML or blast phase (BP; also called blast crisis) CML. * Diagnosis of AP CML - We favor use of the World Health Organization (WHO) criteria to distinguish AP CML from CP CML and BP CML (see 'World Health Organization’ above).",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_30",
+        "chunk_index": 30,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 105,
+        "char_count": 423,
+        "source_type": "section",
+        "section_title": "Vulvar Cancer",
+        "page_range": "16-17"
+      }
+    },
+    {
+      "text": "WHO criteria for AP CML requires at least one of the following: + Blasts - 10 to 19 percent myeloblasts in blood or bone marrow + Basophils - 220 percent in blood + Thrombocytopenia - Platelets persistently <100 x 10°/L (unrelated to therapy) + Additional chromosomal abnormalities (ACA) - Major route ACAs in Ph+ cells at diagnosis (eg, second Ph chromosome, trisomy 8, isochromosome 174, trisomy 9), complex karyotype, or abnormalities of 3q26.2 * New ACA while on treatment - Development of any new ACA (ie, major route ACA or others) in Ph+ cells while treated with a TKI Other models apply different diagnostic criteria, but we favor the WHO model because it is aligned with diagnostic criteria for other hematologic malignancies. (See 'Other models' above.) ¢ Distinguishing de novo AP CML from transformed AP CML has important implications for treatment and prognosis. (See ‘de novo versus transformed AP' above.) + de novo AP CML refers to a patient whose initial presentation with CML is accelerated phase.",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_31",
+        "chunk_index": 31,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 253,
+        "char_count": 1015,
+        "source_type": "section",
+        "section_title": "Vulvar Cancer",
+        "page_range": "16-17"
+      }
+    },
+    {
+      "text": "Patients with de novo AP CML have not previously been treated with a TKI (ie, treatment-naive), because this is the first presentation of their disease. * Transformed AP CML refers to a patient who previously presented with CP CML, but the disease progressed to AP (ie, transformed) during treatment with a TKI. Disease progression may be due to TKI-resistance from a BCR-ABL1 mutation. Transformed AP CML generally has a less favorable prognosis than de novo AP CML. ¢ Treatment of de novo AP CML - For patients with de novo AP CML, we suggest treatment with a second-generation (2G) TKI, rather than allogeneic hematopoietic cell transplantation (HCT) or treatment with imatinib or ponatinib (Grade 2C)(_—_ algorithm 1)",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_32",
+        "chunk_index": 32,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 180,
+        "char_count": 721,
+        "source_type": "section",
+        "section_title": "Vulvar Cancer",
+        "page_range": "16-17"
+      }
+    },
+    {
+      "text": "tyrosine kinase that is sensitive to treatment with a BCR-ABL1 tyrosine kinase inhibitor (TKI). Up to 90 percent of patients with CML present in chronic phase (CP) CML, which is a relatively indolent disorder that responds well to TKIs; the remainder present with either accelerated phase (AP) CML or blast phase (BP; also called blast crisis) CML. * Diagnosis of AP CML - We favor use of the World Health Organization (WHO) criteria to distinguish AP CML from CP CML and BP CML (see 'World Health Organization’ above).",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_33",
+        "chunk_index": 33,
+        "chunk_type": "text",
+        "has_overlap": false,
+        "token_estimate": 129,
+        "char_count": 519,
+        "source_type": "section",
+        "section_title": "Vaginal Cancer",
+        "page_range": "17-18"
+      }
+    },
+    {
+      "text": "WHO criteria for AP CML requires at least one of the following: + Blasts - 10 to 19 percent myeloblasts in blood or bone marrow + Basophils - 220 percent in blood + Thrombocytopenia - Platelets persistently <100 x 10°/L (unrelated to therapy) + Additional chromosomal abnormalities (ACA) - Major route ACAs in Ph+ cells at diagnosis (eg, second Ph chromosome, trisomy 8, isochromosome 174, trisomy 9), complex karyotype, or abnormalities of 3q26.2 * New ACA while on treatment - Development of any new ACA (ie, major route ACA or others) in Ph+ cells while treated with a TKI Other models apply different diagnostic criteria, but we favor the WHO model because it is aligned with diagnostic criteria for other hematologic malignancies. (See 'Other models' above.) ¢ Distinguishing de novo AP CML from transformed AP CML has important implications for treatment and prognosis. (See ‘de novo versus transformed AP' above.) + de novo AP CML refers to a patient whose initial presentation with CML is accelerated phase.",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_34",
+        "chunk_index": 34,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 253,
+        "char_count": 1015,
+        "source_type": "section",
+        "section_title": "Vaginal Cancer",
+        "page_range": "17-18"
+      }
+    },
+    {
+      "text": "Patients with de novo AP CML have not previously been treated with a TKI (ie, treatment-naive), because this is the first presentation of their disease. * Transformed AP CML refers to a patient who previously presented with CP CML, but the disease progressed to AP (ie, transformed) during treatment with a TKI. Disease progression may be due to TKI-resistance from a BCR-ABL1 mutation. Transformed AP CML generally has a less favorable prognosis than de novo AP CML. ¢ Treatment of de novo AP CML - For patients with de novo AP CML, we suggest treatment with a second-generation (2G) TKI, rather than allogeneic hematopoietic cell transplantation (HCT) or treatment with imatinib or ponatinib (Grade 2C)(_—_ algorithm 1)\nbecause, compared with the other approaches, a 2G TKI provides the most favorable balance of efficacy and toxicity. (See ‘Treatment of de novo AP CML' above.) Selection of a 2G TKI for treatment of de novo AP CML is informed by comorbid conditions, toxicity profile, and BCR-ABL1 mutation (if tested), as described above. (See ‘Tyrosine kinase inhibitor selection’ above.) * Treatment for transformed AP CML is guided by the patient's suitability for allogeneic HCT( algorithm 2).",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_35",
+        "chunk_index": 35,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 300,
+        "char_count": 1202,
+        "source_type": "section",
+        "section_title": "Vaginal Cancer",
+        "page_range": "17-18"
+      }
+    },
+    {
+      "text": "Eligibility for transplantation depends on age, medical fitness, and an available suitable donor, as discussed separately. (See \"Hematopoietic cell transplantation in chronic myeloid leukemia\".) * Transplant-eligible - For transplant-eligible patients with transformed AP CML, we generally suggest allogeneic HCT rather than treatment with a TKI alone (Grade 2C), although we recognize that treatment must be individualized. Long-term disease control and possible cure with allogeneic HCT generally outweigh the adverse effects and risk of transplant-related mortality (TRM); by contrast, 2G TKIs or ponatinib have less potential for long-term disease control of transformed AP CML. + Not transplant-eligible - For patients with transformed AP CML who are not suitable for allogeneic HCT (eg, not medically-fit, no suitable donor, or the patient declines), we select a TKI according to BCR-ABL1 mutation analysis, comorbid conditions, and toxicity profile. (See 'Not transplant-eligible' above.) * Selection of a TKI - We select a TKI based on the following considerations (see ‘Tyrosine kinase inhibitor selection' above): * Mutation status - For patients with transformed AP CML, we suggest BCR-ABL1 mutation-guided TKI selection (Grade 2C).",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_36",
+        "chunk_index": 36,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 310,
+        "char_count": 1243,
+        "source_type": "section",
+        "section_title": "Vaginal Cancer",
+        "page_range": "17-18"
+      }
+    },
+    {
+      "text": "However, we generally do not perform mutation analysis for patients with de novo AP CML. Selection of a TKI based on BCR-ABL1 mutations is presented above. (See 'Mutation- guided' above.) * Comorbid conditions - Diabetes or disease of the heart, lung, liver, or pancreas may influence the choice of TKI, as described above. (See 'Comorbidity-guided' above.) * Toxicity profile - Each TKI is associated with characteristic adverse effects (AEs) and selection may be influenced by toxicity profile. (See 'Toxicity-guided' above.)",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_37",
+        "chunk_index": 37,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 131,
+        "char_count": 527,
+        "source_type": "section",
+        "section_title": "Vaginal Cancer",
+        "page_range": "17-18"
+      }
+    },
+    {
+      "text": "because, compared with the other approaches, a 2G TKI provides the most favorable balance of efficacy and toxicity. (See ‘Treatment of de novo AP CML' above.) Selection of a 2G TKI for treatment of de novo AP CML is informed by comorbid conditions, toxicity profile, and BCR-ABL1 mutation (if tested), as described above. (See ‘Tyrosine kinase inhibitor selection’ above.) * Treatment for transformed AP CML is guided by the patient's suitability for allogeneic HCT( algorithm 2). Eligibility for transplantation depends on age, medical fitness, and an available suitable donor, as discussed separately. (See \"Hematopoietic cell transplantation in chronic myeloid leukemia\".) * Transplant-eligible - For transplant-eligible patients with transformed AP CML, we generally suggest allogeneic HCT rather than treatment with a TKI alone (Grade 2C), although we recognize that treatment must be individualized.",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_38",
+        "chunk_index": 38,
+        "chunk_type": "text",
+        "has_overlap": false,
+        "token_estimate": 226,
+        "char_count": 905,
+        "source_type": "section",
+        "section_title": "Gestational Trophoblastic Disease",
+        "page_range": "18-19"
+      }
+    },
+    {
+      "text": "Long-term disease control and possible cure with allogeneic HCT generally outweigh the adverse effects and risk of transplant-related mortality (TRM); by contrast, 2G TKIs or ponatinib have less potential for long-term disease control of transformed AP CML. + Not transplant-eligible - For patients with transformed AP CML who are not suitable for allogeneic HCT (eg, not medically-fit, no suitable donor, or the patient declines), we select a TKI according to BCR-ABL1 mutation analysis, comorbid conditions, and toxicity profile. (See 'Not transplant-eligible' above.) * Selection of a TKI - We select a TKI based on the following considerations (see ‘Tyrosine kinase inhibitor selection' above): * Mutation status - For patients with transformed AP CML, we suggest BCR-ABL1 mutation-guided TKI selection (Grade 2C). However, we generally do not perform mutation analysis for patients with de novo AP CML.",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_39",
+        "chunk_index": 39,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 226,
+        "char_count": 907,
+        "source_type": "section",
+        "section_title": "Gestational Trophoblastic Disease",
+        "page_range": "18-19"
+      }
+    },
+    {
+      "text": "However, we generally do not perform mutation analysis for patients with de novo AP CML. Selection of a TKI based on BCR-ABL1 mutations is presented above. (See 'Mutation- guided' above.) * Comorbid conditions - Diabetes or disease of the heart, lung, liver, or pancreas may influence the choice of TKI, as described above. (See 'Comorbidity-guided' above.) * Toxicity profile - Each TKI is associated with characteristic adverse effects (AEs) and selection may be influenced by toxicity profile. (See 'Toxicity-guided' above.)",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_40",
+        "chunk_index": 40,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 131,
+        "char_count": 527,
+        "source_type": "section",
+        "section_title": "Gestational Trophoblastic Disease",
+        "page_range": "18-19"
+      }
+    },
+    {
+      "text": "12. Ohanian M, Kantarjian HM, Quintas-Cardama A, et al. Tyrosine kinase inhibitors as initial therapy for patients with chronic myeloid leukemia in accelerated phase. Clin Lymphoma Myeloma Leuk 2014; 14:155. 13. Kantarjian H, Cortes J, Kim DW, et al. Phase 3 study of dasatinib 140 mg once daily versus 70 mg twice daily in patients with chronic myeloid leukemia in accelerated phase resistant or intolerant to imatinib: 15-month median follow-up. Blood 2009; 113:6322. 14. le Coutre PD, Giles FJ, Hochhaus A, et al. Nilotinib in patients with Ph+ chronic myeloid leukemia in accelerated phase following imatinib resistance or intolerance: 24-month follow-up results. Leukemia 2012; 26:1189. 15. Gambacorti-Passerini C, Kantarjian HM, Kim DW, et al. Long-term efficacy and safety of bosutinib in patients with advanced leukemia following resistance/intolerance to imatinib and other tyrosine kinase inhibitors. Am J Hematol 2015; 90:755. 16. Deininger M, Schleuning M, Greinix H, et al. The effect of prior exposure to imatinib on transplant-related mortality. Haematologica 2006; 91:452. 17. Oehler VG, Gooley T, Snyder DS, et al. The effects of imatinib mesylate treatment before allogeneic transplantation for chronic myeloid leukemia. Blood 2007; 109:1782. 18.",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_41",
+        "chunk_index": 41,
+        "chunk_type": "text",
+        "has_overlap": false,
+        "token_estimate": 316,
+        "char_count": 1264,
+        "source_type": "section",
+        "section_title": "Supportive Care: Nutrition and Growth Factors",
+        "page_range": "19-20"
+      }
+    },
+    {
+      "text": "Deininger M, Schleuning M, Greinix H, et al. The effect of prior exposure to imatinib on transplant-related mortality. Haematologica 2006; 91:452. 17. Oehler VG, Gooley T, Snyder DS, et al. The effects of imatinib mesylate treatment before allogeneic transplantation for chronic myeloid leukemia. Blood 2007; 109:1782. 18. Jabbour E, Cortes J, Kantarjian H, et al. Novel tyrosine kinase inhibitor therapy before allogeneic stem cell transplantation in patients with chronic myeloid leukemia: no evidence for increased transplant-related toxicity. Cancer 2007; 110:340. 19. Shimoni A, Leiba M, Schleuning M, et al. Prior treatment with the tyrosine kinase inhibitors dasatinib and nilotinib allows stem cell transplantation (SCT) in a less advanced disease phase and does not increase SCT Toxicity in patients with chronic myelogenous leukemia and philadelphia positive acute lymphoblastic leukemia. Leukemia 2009; 23:190. 20. Breccia M, Palandri F, Iori AP, et al. Second-generation tyrosine kinase inhibitors before allogeneic stem cell transplantation in patients with chronic myeloid leukemia resistant to imatinib. Leuk Res 2010; 34:143. 21.",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_42",
+        "chunk_index": 42,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 286,
+        "char_count": 1145,
+        "source_type": "section",
+        "section_title": "Supportive Care: Nutrition and Growth Factors",
+        "page_range": "19-20"
+      }
+    },
+    {
+      "text": "Leukemia 2009; 23:190. 20. Breccia M, Palandri F, Iori AP, et al. Second-generation tyrosine kinase inhibitors before allogeneic stem cell transplantation in patients with chronic myeloid leukemia resistant to imatinib. Leuk Res 2010; 34:143. 21. Lee SE, Choi SY, Kim SH, et al. Prognostic factors for outcomes of allogeneic stem cell transplantation in chronic phase chronic myeloid leukemia in the era of tyrosine kinase inhibitors. Hematology 2014; 19:63. 22. Piekarska A, Gil L, Prejzner W, et al. Pretransplantation use of the second-generation tyrosine kinase inhibitors has no negative impact on the HCT outcome. Ann Hematol 2015; 94:1891. 23. Hu B, Lin X, Lee HC, et al. Timing of allogeneic hematopoietic cell transplantation (alloHCT) for chronic myeloid leukemia (CML) patients. Leuk Lymphoma 2020; 61:2811.",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_43",
+        "chunk_index": 43,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 204,
+        "char_count": 818,
+        "source_type": "section",
+        "section_title": "Supportive Care: Nutrition and Growth Factors",
+        "page_range": "19-20"
+      }
+    },
+    {
+      "text": "12. Ohanian M, Kantarjian HM, Quintas-Cardama A, et al. Tyrosine kinase inhibitors as initial therapy for patients with chronic myeloid leukemia in accelerated phase. Clin Lymphoma Myeloma Leuk 2014; 14:155. 13. Kantarjian H, Cortes J, Kim DW, et al. Phase 3 study of dasatinib 140 mg once daily versus 70 mg twice daily in patients with chronic myeloid leukemia in accelerated phase resistant or intolerant to imatinib: 15-month median follow-up. Blood 2009; 113:6322. 14. le Coutre PD, Giles FJ, Hochhaus A, et al. Nilotinib in patients with Ph+ chronic myeloid leukemia in accelerated phase following imatinib resistance or intolerance: 24-month follow-up results. Leukemia 2012; 26:1189. 15. Gambacorti-Passerini C, Kantarjian HM, Kim DW, et al. Long-term efficacy and safety of bosutinib in patients with advanced leukemia following resistance/intolerance to imatinib and other tyrosine kinase inhibitors. Am J Hematol 2015; 90:755. 16. Deininger M, Schleuning M, Greinix H, et al. The effect of prior exposure to imatinib on transplant-related mortality. Haematologica 2006; 91:452. 17. Oehler VG, Gooley T, Snyder DS, et al. The effects of imatinib mesylate treatment before allogeneic transplantation for chronic myeloid leukemia. Blood 2007; 109:1782. 18.",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_44",
+        "chunk_index": 44,
+        "chunk_type": "text",
+        "has_overlap": false,
+        "token_estimate": 316,
+        "char_count": 1264,
+        "source_type": "section",
+        "section_title": "Surgical Techniques in Gynecologic Oncology",
+        "page_range": "20-21"
+      }
+    },
+    {
+      "text": "Deininger M, Schleuning M, Greinix H, et al. The effect of prior exposure to imatinib on transplant-related mortality. Haematologica 2006; 91:452. 17. Oehler VG, Gooley T, Snyder DS, et al. The effects of imatinib mesylate treatment before allogeneic transplantation for chronic myeloid leukemia. Blood 2007; 109:1782. 18. Jabbour E, Cortes J, Kantarjian H, et al. Novel tyrosine kinase inhibitor therapy before allogeneic stem cell transplantation in patients with chronic myeloid leukemia: no evidence for increased transplant-related toxicity. Cancer 2007; 110:340. 19. Shimoni A, Leiba M, Schleuning M, et al. Prior treatment with the tyrosine kinase inhibitors dasatinib and nilotinib allows stem cell transplantation (SCT) in a less advanced disease phase and does not increase SCT Toxicity in patients with chronic myelogenous leukemia and philadelphia positive acute lymphoblastic leukemia. Leukemia 2009; 23:190. 20. Breccia M, Palandri F, Iori AP, et al. Second-generation tyrosine kinase inhibitors before allogeneic stem cell transplantation in patients with chronic myeloid leukemia resistant to imatinib. Leuk Res 2010; 34:143. 21.",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_45",
+        "chunk_index": 45,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 286,
+        "char_count": 1145,
+        "source_type": "section",
+        "section_title": "Surgical Techniques in Gynecologic Oncology",
+        "page_range": "20-21"
+      }
+    },
+    {
+      "text": "Leukemia 2009; 23:190. 20. Breccia M, Palandri F, Iori AP, et al. Second-generation tyrosine kinase inhibitors before allogeneic stem cell transplantation in patients with chronic myeloid leukemia resistant to imatinib. Leuk Res 2010; 34:143. 21. Lee SE, Choi SY, Kim SH, et al. Prognostic factors for outcomes of allogeneic stem cell transplantation in chronic phase chronic myeloid leukemia in the era of tyrosine kinase inhibitors. Hematology 2014; 19:63. 22. Piekarska A, Gil L, Prejzner W, et al. Pretransplantation use of the second-generation tyrosine kinase inhibitors has no negative impact on the HCT outcome. Ann Hematol 2015; 94:1891. 23. Hu B, Lin X, Lee HC, et al. Timing of allogeneic hematopoietic cell transplantation (alloHCT) for chronic myeloid leukemia (CML) patients. Leuk Lymphoma 2020; 61:2811.\n24. Saussele S, Lauseker M, Gratwohl A, et al. Allogeneic hematopoietic stem cell transplantation (allo SCT) for chronic myeloid leukemia in the imatinib era: evaluation of its impact within a subgroup of the randomized German CML Study IV. Blood 2010; 115:1880. 25. Boehm A, Walcherberger B, Sperr WR, et al. Improved outcome in patients with chronic myelogenous leukemia after allogeneic hematopoietic stem cell transplantation over the past 25 years: a single-center experience.",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_46",
+        "chunk_index": 46,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 325,
+        "char_count": 1300,
+        "source_type": "section",
+        "section_title": "Surgical Techniques in Gynecologic Oncology",
+        "page_range": "20-21"
+      }
+    },
+    {
+      "text": "Blood 2010; 115:1880. 25. Boehm A, Walcherberger B, Sperr WR, et al. Improved outcome in patients with chronic myelogenous leukemia after allogeneic hematopoietic stem cell transplantation over the past 25 years: a single-center experience. Biol Blood Marrow Transplant 2011; 17:133. 26. Lubking A, Dreimane A, Sandin F, et al. Allogeneic stem cell transplantation for chronic myeloid leukemia in the TKI era: population-based data from the Swedish CML registry. Bone Marrow Transplant 2019; 54:1764. 27. https://www.accessdata.fda.gov/drugsatfda_docs/label/2010/021986s7s8lbl.pdf (Accessed on June 01, 2021). 28. Apperley JF, Cortes JE, Kim DW, et al. Dasatinib in the treatment of chronic myeloid leukemia in accelerated phase after imatinib failure: the START a trial. J Clin Oncol 2009; 27:3472. 29. Guilhot F, Apperley J, Kim DW, et al. Dasatinib induces significant hematologic and cytogenetic responses in patients with imatinib-resistant or -intolerant chronic myeloid leukemia in accelerated phase.",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_47",
+        "chunk_index": 47,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 251,
+        "char_count": 1007,
+        "source_type": "section",
+        "section_title": "Surgical Techniques in Gynecologic Oncology",
+        "page_range": "20-21"
+      }
+    },
+    {
+      "text": "J Clin Oncol 2009; 27:3472. 29. Guilhot F, Apperley J, Kim DW, et al. Dasatinib induces significant hematologic and cytogenetic responses in patients with imatinib-resistant or -intolerant chronic myeloid leukemia in accelerated phase. Blood 2007; 109:4143. 30. https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/022068s026lbl.pdf (Accessed on June 01, 2021). 31. le Coutre P, Ottmann OG, Giles F, et al. Nilotinib (formerly AMN107), a highly selective BCR- ABL tyrosine kinase inhibitor, is active in patients with imatinib-resistant or -intolerant accelerated-phase chronic myelogenous leukemia. Blood 2008; 111:1834. 32. Kantarjian H, Giles F, Wunderle L, et al. Nilotinib in imatinib-resistant CML and Philadelphia chromosome-positive ALL. N Engl J Med 2006; 354:2542. 33. https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/20334s007s008lbl.pdf (Access ed on June 01, 2021). 34. Cortes JE, Kantarjian HM, Mauro Mj, et al. Long-term cardiac, vascular, hypertension, and effusion safety of bosutinib in patients with Philadelphia chromosome-positive leukemia resistant or intolerant to prior therapy. Eur J Haematol 2021; 106:808. 35. Cortes J, Apperley J, Lomaia E, et al. Ponatinib dose-ranging study in chronic-phase chronic myeloid leukemia: a randomized, open-label phase 2 clinical trial. Eur J Haematol 2021; 106:808. 35. Cortes J, Apperley J, Lomaia E, et al. Ponatinib dose-ranging study in chronic-phase chronic myeloid leukemia: a randomized, open-label phase 2 clinical trial. Blood 2021; 138:2042. 36. https://www.accessdata.fda.gov/drugsatfda_docs/label/2012/203469Ibl.pdf (Accessed on Ju ne 01, 2021).",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_48",
+        "chunk_index": 48,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 408,
+        "char_count": 1632,
+        "source_type": "section",
+        "section_title": "Surgical Techniques in Gynecologic Oncology",
+        "page_range": "20-21"
+      }
+    },
+    {
+      "text": "24. Saussele S, Lauseker M, Gratwohl A, et al. Allogeneic hematopoietic stem cell transplantation (allo SCT) for chronic myeloid leukemia in the imatinib era: evaluation of its impact within a subgroup of the randomized German CML Study IV. Blood 2010; 115:1880. 25. Boehm A, Walcherberger B, Sperr WR, et al. Improved outcome in patients with chronic myelogenous leukemia after allogeneic hematopoietic stem cell transplantation over the past 25 years: a single-center experience. Biol Blood Marrow Transplant 2011; 17:133. 26. Lubking A, Dreimane A, Sandin F, et al. Allogeneic stem cell transplantation for chronic myeloid leukemia in the TKI era: population-based data from the Swedish CML registry. Bone Marrow Transplant 2019; 54:1764. 27. https://www.accessdata.fda.gov/drugsatfda_docs/label/2010/021986s7s8lbl.pdf (Accessed on June 01, 2021). 28. Apperley JF, Cortes JE, Kim DW, et al. Dasatinib in the treatment of chronic myeloid leukemia in accelerated phase after imatinib failure: the START a trial. J Clin Oncol 2009; 27:3472. 29. Guilhot F, Apperley J, Kim DW, et al. Dasatinib induces significant hematologic and cytogenetic responses in patients with imatinib-resistant or -intolerant chronic myeloid leukemia in accelerated phase.",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_49",
+        "chunk_index": 49,
+        "chunk_type": "text",
+        "has_overlap": false,
+        "token_estimate": 312,
+        "char_count": 1248,
+        "source_type": "section",
+        "section_title": "Palliative Care",
+        "page_range": "21-35"
+      }
+    },
+    {
+      "text": "J Clin Oncol 2009; 27:3472. 29. Guilhot F, Apperley J, Kim DW, et al. Dasatinib induces significant hematologic and cytogenetic responses in patients with imatinib-resistant or -intolerant chronic myeloid leukemia in accelerated phase. Blood 2007; 109:4143. 30. https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/022068s026lbl.pdf (Accessed on June 01, 2021). 31. le Coutre P, Ottmann OG, Giles F, et al. Nilotinib (formerly AMN107), a highly selective BCR- ABL tyrosine kinase inhibitor, is active in patients with imatinib-resistant or -intolerant accelerated-phase chronic myelogenous leukemia. Blood 2008; 111:1834. 32. Kantarjian H, Giles F, Wunderle L, et al. Nilotinib in imatinib-resistant CML and Philadelphia chromosome-positive ALL. N Engl J Med 2006; 354:2542. 33. https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/20334s007s008lbl.pdf (Access ed on June 01, 2021). 34. Cortes JE, Kantarjian HM, Mauro Mj, et al. Long-term cardiac, vascular, hypertension, and effusion safety of bosutinib in patients with Philadelphia chromosome-positive leukemia resistant or intolerant to prior therapy. Eur J Haematol 2021; 106:808. 35. Cortes J, Apperley J, Lomaia E, et al. Ponatinib dose-ranging study in chronic-phase chronic myeloid leukemia: a randomized, open-label phase 2 clinical trial.",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_50",
+        "chunk_index": 50,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 327,
+        "char_count": 1310,
+        "source_type": "section",
+        "section_title": "Palliative Care",
+        "page_range": "21-35"
+      }
+    },
+    {
+      "text": "Eur J Haematol 2021; 106:808. 35. Cortes J, Apperley J, Lomaia E, et al. Ponatinib dose-ranging study in chronic-phase chronic myeloid leukemia: a randomized, open-label phase 2 clinical trial. Blood 2021; 138:2042. 36. https://www.accessdata.fda.gov/drugsatfda_docs/label/2012/203469Ibl.pdf (Accessed on Ju ne 01, 2021).\n37. Chan O, Talati C, Isenalumhe L, et al. Side-effects profile and outcomes of ponatinib in the treatment of chronic myeloid leukemia. Blood Adv 2020; 4:530. 38. Cortes JE, Kim DW, Pinilla-Ibarz J, et al. Ponatinib efficacy and safety in Philadelphia chromosome-positive leukemia: final 5-year results of the phase 2 PACE trial. Blood 2018; 132:393. 39. Réa D, Mauro MJ, Boquimpani C, et al. A phase 3, open-label, randomized study of asciminib, a STAMP inhibitor, vs bosutinib in CML after 2 or more prior TKIs. Blood 2021; 138:2031. 40. Hughes TP, Mauro MJ, Cortes JE, et al. Asciminib in Chronic Myeloid Leukemia after ABL Kinase Inhibitor Failure. N Engl J Med 2019; 381:2315. 41. http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/203585lbl.pdf?et_cid=3033478 O&et_rid=463648356&linkid=http%3a%2f%2fwww.accessdata.fda.gov%2fdrugsatfda_docs% 2flabel%2f2012%2f203585Ibl.pdf (Accessed on October 26, 2012). 42.",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_51",
+        "chunk_index": 51,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 310,
+        "char_count": 1241,
+        "source_type": "section",
+        "section_title": "Palliative Care",
+        "page_range": "21-35"
+      }
+    },
+    {
+      "text": "N Engl J Med 2019; 381:2315. 41. http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/203585lbl.pdf?et_cid=3033478 O&et_rid=463648356&linkid=http%3a%2f%2fwww.accessdata.fda.gov%2fdrugsatfda_docs% 2flabel%2f2012%2f203585Ibl.pdf (Accessed on October 26, 2012). 42. Cortes JE, Kantarjian HM, Rea D, et al. Final analysis of the efficacy and safety of omacetaxine mepesuccinate in patients with chronic- or accelerated-phase chronic myeloid leukemia: Results with 24 months of follow-up. Cancer 2015; 121:1637. 43. Westerweel PE, Te Boekhorst PAW, Levin MD, Cornelissen JJ. New Approaches and Treatment Combinations for the Management of Chronic Myeloid Leukemia. Front Oncol 2019; 9:665. 44, Ruggiu M, Oberkampf F, Ghez D, et al. Azacytidine in combination with tyrosine kinase inhibitors induced durable responses in patients with advanced phase chronic myelogenous leukemia. Leuk Lymphoma 2018; 59:1659. 45. Abaza Y, Kantarjian H, Alwash Y, et al. Phase I/II study of dasatinib in combination with decitabine in patients with accelerated or blast phase chronic myeloid leukemia. Am J Hematol 2020; 95:1288. 46. Maiti A, Franquiz MJ, Ravandi F, et al. Venetoclax and BCR-ABL Tyrosine Kinase Inhibitor Combinations: Outcome in Patients with Philadelphia Chromosome-Positive Advanced Myeloid Leukemias.",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_52",
+        "chunk_index": 52,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 325,
+        "char_count": 1302,
+        "source_type": "section",
+        "section_title": "Palliative Care",
+        "page_range": "21-35"
+      }
+    },
+    {
+      "text": "Am J Hematol 2020; 95:1288. 46. Maiti A, Franquiz MJ, Ravandi F, et al. Venetoclax and BCR-ABL Tyrosine Kinase Inhibitor Combinations: Outcome in Patients with Philadelphia Chromosome-Positive Advanced Myeloid Leukemias. Acta Haematol 2020; 143:567. 47. Cortes J, Jabbour E, Daley GQ, et al. Phase 1 study of lonafarnib (SCH 66336) and imatinib mesylate in patients with chronic myeloid leukemia who have failed prior single-agent therapy with imatinib. Cancer 2007; 110:1295. 48. Cortes J, Quintas-Cardama A, Garcia-Manero G, et al. Phase 1 study of tipifarnib in combination with imatinib for patients with chronic myelogenous leukemia in chronic phase after imatinib failure. Cancer 2007; 110:2000.\n49. Borthakur G, Dombret H, Schafhausen P, et al. A phase I study of danusertib (PHA-739358) in adult patients with accelerated or blastic phase chronic myeloid leukemia and Philadelphia chromosome-positive acute lymphoblastic leukemia resistant or intolerant to imatinib and/or other second generation c-ABL therapy. Haematologica 2015; 100:898. 50. Massimino M, Stella S, Tirrd E, et al. Non ABL-directed inhibitors as alternative treatment strategies for chronic myeloid leukemia. Mol Cancer 2018; 17:56. 51.",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_53",
+        "chunk_index": 53,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 303,
+        "char_count": 1213,
+        "source_type": "section",
+        "section_title": "Palliative Care",
+        "page_range": "21-35"
+      }
+    },
+    {
+      "text": "Haematologica 2015; 100:898. 50. Massimino M, Stella S, Tirrd E, et al. Non ABL-directed inhibitors as alternative treatment strategies for chronic myeloid leukemia. Mol Cancer 2018; 17:56. 51. Wang W, Cortes JE, Tang G, et al. Risk stratification of chromosomal abnormalities in chronic myelogenous leukemia in the era of tyrosine kinase inhibitor therapy. Blood 2016; 127:2742. 52. Fabarius A, Leitner A, Hochhaus A, et al. Impact of additional cytogenetic aberrations at diagnosis on prognosis of CML: long-term observation of 1151 patients from the randomized CML Study IV. Blood 2011; 118:6760. 53. Hehlmann R, Voskanyan A, Lauseker M, et al. High-risk additional chromosomal abnormalities at low blast counts herald death by CML. Leukemia 2020; 34:2074. 54. Verma D, Kantarjian H, Shan J, et al. Survival outcomes for clonal evolution in chronic myeloid leukemia patients on second generation tyrosine kinase inhibitor therapy. Cancer 2010; 116:2673. 55. Ohanian M, Kantarjian HM, Shoukier M, et al. The clinical impact of time to response in de novo accelerated-phase chronic myeloid leukemia. Am J Hematol 2020. 56. Branford S, Kim DDH, Apperley JF, et al. Laying the foundation for genomically-based risk assessment in chronic myeloid leukemia. Leukemia 2019; 33:1835. 57.",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_54",
+        "chunk_index": 54,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 320,
+        "char_count": 1281,
+        "source_type": "section",
+        "section_title": "Palliative Care",
+        "page_range": "21-35"
+      }
+    },
+    {
+      "text": "Ohanian M, Kantarjian HM, Shoukier M, et al. The clinical impact of time to response in de novo accelerated-phase chronic myeloid leukemia. Am J Hematol 2020. 56. Branford S, Kim DDH, Apperley JF, et al. Laying the foundation for genomically-based risk assessment in chronic myeloid leukemia. Leukemia 2019; 33:1835. 57. Ochi Y, Yoshida K, Huang YJ, et al. Clonal evolution and clinical implications of genetic abnormalities in blastic transformation of chronic myeloid leukaemia. Nat Commun 2021; 12:2833. Topic 4514 Version 35.0\nGRAPHICS Eastern Cooperative Oncology Group (ECOG) performance status Performance wae Definition status 0 Fully active; no performance restrictions. 1 Strenuous physical activity restricted; fully ambulatory and able to carry out light work. 2 Capable of all self-care but unable to carry out any work activities. Up and about >50% of waking hours. 3 Capable of only limited self-care; confined to bed or chair >50% of waking hours. 4 Completely disabled; cannot carry out any self-care; totally confined to bed or chair. Adapted from: Oken MM, Creech RH, Tormey DC, et al. Toxicity and response criteria of the Eastern Cooperative Oncology Group. Am J Clin Oncol 1982; 5:649.",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_55",
+        "chunk_index": 55,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 301,
+        "char_count": 1207,
+        "source_type": "section",
+        "section_title": "Palliative Care",
+        "page_range": "21-35"
+      }
+    },
+    {
+      "text": "Adapted from: Oken MM, Creech RH, Tormey DC, et al. Toxicity and response criteria of the Eastern Cooperative Oncology Group. Am J Clin Oncol 1982; 5:649. Graphic 72901 Version 12.0\nDiagnostic criteria: accelerated phase of chronic myelogenous leukemia MD Anderson* Sokal et al\" WHO\" PB blasts 215% PB or BM blasts 25% PB or BM blasts 10 to 19% PB blasts + pro =30% PB baso =20% PB basophils =20% PB basophils =20% Platelets <100,000/microL not Thrombocytopenia, not related Platelets <100,000/microL, related to therapy to therapy unrelated to therapy Cytogenetic evolution Cytogenetic evolution Cytogenetic evolution or additional clonal chromosomal abnormalities in Ph+ cells at diagnosis that include \"major route\" abnormalities, complex karyotype, or abnormalities of 3q26.2 Platelets >1 million/microL Platelets >1,000,000/microL despite adequate therapy unresponsive to therapy Marrow collagen fibrosis Anemia, unrelated to Rx Progressive splenomegaly Progressive splenomegaly and increasing WBC unresponsive to therapy WEC doubling time <5 days Unexplained fever Pelger-Huett-like neutrophils, nucleated RBCs, megakaryocyte fragments Examples of \"major route\" abnormalities defined by the WHO include second Ph, trisomy 8, isochromosome 17q, and trisomy 19.",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_56",
+        "chunk_index": 56,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 316,
+        "char_count": 1265,
+        "source_type": "section",
+        "section_title": "Palliative Care",
+        "page_range": "21-35"
+      }
+    },
+    {
+      "text": "The WHO includes provisional response-to-tyrosine kinase inhibitor criteria for accelerated phase disease. WHO: World Health Organization; PB: peripheral blood; BM: bone marrow; pro: promyelocytes; baso: basophils; WBC: white blood cell count; RBC: red blood cells. * Kantarjian, HM, et al. Cancer 1988; 61:1441. 4 Sokal, JE, et al. Semin Hematol 1988; 25:49. A Arber, DA, et al. Blood 2016; 127:2391. For each of the three sets of criteria, the accelerated phase of chronic myelogenous leukemia is diagnosed if one or more of the listed features is present. Adapted from O'Dwyer, ME, et al. Blood 2002; 100:1628.",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_57",
+        "chunk_index": 57,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 153,
+        "char_count": 613,
+        "source_type": "section",
+        "section_title": "Palliative Care",
+        "page_range": "21-35"
+      }
+    },
+    {
+      "text": "A Arber, DA, et al. Blood 2016; 127:2391. For each of the three sets of criteria, the accelerated phase of chronic myelogenous leukemia is diagnosed if one or more of the listed features is present. Adapted from O'Dwyer, ME, et al. Blood 2002; 100:1628. Graphic 60902 Version 4.0\nManagement of de novo accelerated phase chronic myeloid leukemia (ie, treatment-naive AP CML) Optimal response Less than optimal response ¥ ¥ Perform BCR-ABL1 mutation analysis Continue TKI indefinitely ‘Switch therapy to a 2G TKI or ponatinib that is different from the prior TKI, guided by mutation analysis, comorbid illnesses, and toxicity profile Optimal response Less than optimal response v v Yes No Proceed to allogeneic HCT from prior TKIs, guided by mutation analysis, comorbid illnesses, and toxicity profile This algorithm describes initial management of de novo CML AP; importantly, management of de novo AP CML differs from that of transformed AP CML (ie, AP CML that arose while the patient was receiving a TKI). Refer to related UpToDate material for criteria for diagnosis of de novo CML AP, selection of a TKI, assessment of response to TKI, and eligibility for allogeneic HCT.",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_58",
+        "chunk_index": 58,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 293,
+        "char_count": 1175,
+        "source_type": "section",
+        "section_title": "Palliative Care",
+        "page_range": "21-35"
+      }
+    },
+    {
+      "text": "Refer to related UpToDate material for criteria for diagnosis of de novo CML AP, selection of a TKI, assessment of response to TKI, and eligibility for allogeneic HCT. AP CML: accelerated phase chronic myeloid leukemia; 2G TKI: second generation BCR-ABL1 tyrosine kinase inhibitor; HCT: hematopoietic cell transplantation. * If BCR-ABL1 mutation analysis was performed, the choice of a TKI should also reflect mutation findings. Graphic 131960 Version 1.0\nComparison of tyrosine kinase inhibitors used for chronic myeloid leukemia Dosing Dose frequency adjustments Agent and timing in for baseline Major toxicities Other relation to kidney/liver food dysfunction Imatinib Daily (or twice Yes (kidney, liver) Bone marrow Longest record daily) with food suppression; fluid of safety data retention/edema; gastrointestinal effects; heart failure; hepatotoxicity. Nilotinib Twice daily Yes (liver) Bone marrow without food suppression; cardiovascular events; electrolyte imbalance; hepatotoxicity. Black box warning: QT prolongation (screening required). Dasatinib Daily with or No Bone marrow without food suppression; pleural/pericardial effusions; pulmonary arterial hypertension; QT prolongation; aspirin-like effect.",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_59",
+        "chunk_index": 59,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 304,
+        "char_count": 1217,
+        "source_type": "section",
+        "section_title": "Palliative Care",
+        "page_range": "21-35"
+      }
+    },
+    {
+      "text": "Black box warning: QT prolongation (screening required). Dasatinib Daily with or No Bone marrow without food suppression; pleural/pericardial effusions; pulmonary arterial hypertension; QT prolongation; aspirin-like effect. Bosutinib Daily with food Yes (kidney, liver) | Bone marrow suppression; fluid retention/edema; gastrointestinal effects. Ponatinib Daily with or Yes (liver) Bone marrow Active against without food suppression; fluid BCR::ABL1 T3151 retention/edema; mutation; gastrointestinal limited long- effects; heart failure; term safety data hypertension; pancreatitis; aspirin-\nlike effect; arterial thrombosis. Black box warning: cardiovascular events; hepatic toxicity. Asciminib Daily or twice No Upper respiratory Active against daily without tract infections; BCR::ABL1 T3151 food musculoskeletal pain; | mutation; fatigue; nausea; rash; | limited long- and diarrhea. term safety data Hypertriglyceridemia; cytopenias; elevated creatine kinase; hepatotoxicity; pancreatitis. The table provides general guidance regarding the administration and toxicities of these tyrosine kinase inhibitors. Further details are available within the package inserts and UpToDate topics.",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_60",
+        "chunk_index": 60,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 297,
+        "char_count": 1189,
+        "source_type": "section",
+        "section_title": "Palliative Care",
+        "page_range": "21-35"
+      }
+    },
+    {
+      "text": "The table provides general guidance regarding the administration and toxicities of these tyrosine kinase inhibitors. Further details are available within the package inserts and UpToDate topics. Graphic 89930 Version 4.0\nManagement of transformed accelerated phase chronic myeloid leukemia (AP CML) Perform BCR-ABL1 mutation analysis. ‘Switch therapy to a 2G TKI or ponatinib that is different from the previous TKI, guided by mutation analysis, comorbid illnesses, and toxicity profile. Is the patient eligible for allogeneic HCT? Yes No v v Proceed to transplantation Inadequate response, loss of response, or intolerance? Yes No v ¥ or omacetaxine, as guided by mutation analysis, | | Continue TKI indefinitely comorbidities, and toxicities This algorithm describes management of transformed AP CML (ie, AP CML that arose while the patient was receiving a TKI); importantly, management of transformed AP CML differs from that of de novo CML (ie, patients whose initial presentation is AP CML and who have not received prior TKI therapy). Refer to related UpToDate material for diagnostic criteria for transformed CML AP, selection of a TKI, and eligibility for allogeneic HCT.",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_61",
+        "chunk_index": 61,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 294,
+        "char_count": 1179,
+        "source_type": "section",
+        "section_title": "Palliative Care",
+        "page_range": "21-35"
+      }
+    },
+    {
+      "text": "Refer to related UpToDate material for diagnostic criteria for transformed CML AP, selection of a TKI, and eligibility for allogeneic HCT. CML: chronic myeloid leukemia; AP: accelerated phase; 2G TKI: second generation BCR-ABL1 tyrosine kinase inhibitor; HCT: hematopoietic cell transplantation.",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_62",
+        "chunk_index": 62,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 73,
+        "char_count": 295,
+        "source_type": "section",
+        "section_title": "Palliative Care",
+        "page_range": "21-35"
+      }
+    },
+    {
+      "text": "Refer to related UpToDate material for diagnostic criteria for transformed CML AP, selection of a TKI, and eligibility for allogeneic HCT. CML: chronic myeloid leukemia; AP: accelerated phase; 2G TKI: second generation BCR-ABL1 tyrosine kinase inhibitor; HCT: hematopoietic cell transplantation. Graphic 131961 Version 1.0\nSome reported causes and potentiators of the long QT syndrome Congenital = Jervell and Lange-Nielsen syndrome (including \"channelopathies\") = Romano-Ward syndrome = Idiopathic Acquired Metabolic disorders Other factors Androgen deprivation therapy = Hypokalemia = Myocardial = GnRH agonist/antagonist therapy = Hypomagnesemia ischemia or = Bilateral surgical orchiectomy A infarction, = Hypocalcemia - ral with Diuretic therapy via electrolyte disorders * Starvation p . y particularly hypokalemia and . prominent T-wave - = Anorexia nervosa : . hypomagnesemia * Liquid in diet inversions Liqui Protein es = Intracranial Herbs = Hypothyroidism disease = Cinchona (contains quinine), iboga Bradyarrhythmias = HV infection (ibogaine), licorice extract in overuse via = Sinus node = Hypothermia electrolyte disturbances dysfunction = Toxic exposure: = AV block: Second or Organophosphate third degree insecticides Medications* High risk = Adagrasib = Cisaparide = Lenvatinib = Selpercatinib = Ajmaline! (restricted = Levoketoconazole = Sertindole! = Amiodarone availability) = Methadone = Sotalol \"= Arsenic trioxide * Delamanid# = Mobocertinib = Terfenadine® .",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_63",
+        "chunk_index": 63,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 370,
+        "char_count": 1481,
+        "source_type": "section",
+        "section_title": "Palliative Care",
+        "page_range": "21-35"
+      }
+    },
+    {
+      "text": "A = Astemizole® = Disopyramide = Papavirine = Vandetanib = Bedaquline \" Dofetilide (intracoronary) = Vernakalant! \" Bepridil® * Dronedarone = Procainamide \" Ziprasidone = Chlorpromazine = Haloperidol (IV) = Quinidine = Ibutilide = Quinine = Ivosidenib Moderate risk = Amisulpride\" (oral) | = Droperidol = Inotuzumab = Propafenone = Azithromycin = Encorafenib ozogamacin = Propofol = Capecitabine = Entrectinib = Isoflurane = Quetiapine = Carbetocin® = Erythromycin = Levetiracetam = Quizartinib\n= Certinib = Escitalopram = Levofloxacin = Ribociclib = Chloroquine = Etelcalcetide (systemic) = Risperidone = Citalopram = Fexinidazole = Lofexidine = Saquinavir = Clarithromycin = Flecainide = Meglumine = Sevoflurane = Clofazimine = Floxuridine antimoniate = Sparfloxacin® = Clomipramine* = Fluconazole = Midostaurin = Sunitinib = Clozapine = Fluorouracil = Moxifloxacin = Tegafur! * Crizotinib (systemic) * Nilotinib * Terbutaline = Dabrafenib .",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_64",
+        "chunk_index": 64,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 235,
+        "char_count": 943,
+        "source_type": "section",
+        "section_title": "Palliative Care",
+        "page_range": "21-35"
+      }
+    },
+    {
+      "text": "Flupentixol! = Olanzapine = Thioridazine = Dasatinib = Gabobenate ® Ondansetron (IV > = Toremifene = Deslurane dimeglumine oral) = Vemurafenib = Domperidone! * Gemifloxacin’ = Osimertinib = Voriconazole = Doxepin* \" Gilteritinib = Oxytocin ® Doxifluridine’ = Halofantrine = Pazopanib = Haloperidol (oral) = Pentamidine = Imipramine¥ = Pilsicainide® = Pimozide = Piperaquine = Probucol?",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_65",
+        "chunk_index": 65,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 96,
+        "char_count": 385,
+        "source_type": "section",
+        "section_title": "Palliative Care",
+        "page_range": "21-35"
+      }
+    },
+    {
+      "text": "Low risk* = Albuterol = Fingolimod = Mequitazine = Ranolazine (due = Alfuzosin = Fluoxetine = Methotrimeprazine to bradycardia) = Amisulpride (IV)° = Fluphenazine = Metoclopramide = Relugolix = Amitriptyline* = Formoterol (rare reports) = Rilpivirine = Anagrelide = Foscarnet = Metronidazole = Romidepsin = Apomorphine = Fostemsavir (systemic) = Roxithromycin = Arformoterol = Gadofosveset « Mifepristone = Salmeterol = Artemether- = Glasdegib = Mirtazapine = Sertraline lumefantrine = Goserelin = Mizolastine = Siponimod = Asenapine = Granisetron = Nelfinavir = Solifenacin = Atomoxetine = Hydroxychloroquine | ™ Norfloxacin = Sorafenib = Benperidol (rare reports) = Nortriptyline* = Sulpiride ™ Bilastine’ = Hydroxyzine \" Ofloxacin = Tacrolimus = Bosutinib = Iloperidone (systemic) (systemic) = Bromperidol = Indacaterol = Olodaterol = Tamoxifen = Buprenorphine* = Itraconazole * Osilodrostat * Telavancin = Buserelin = Ketoconazole * Oxaliplatin * Telithromycin = Ciprofloxacin (systemic) * Ozanimod*4 = Teneligliptin ",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_66",
+        "chunk_index": 66,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 255,
+        "char_count": 1021,
+        "source_type": "section",
+        "section_title": "Palliative Care",
+        "page_range": "21-35"
+      }
+    },
+    {
+      "text": "(Systemic) = Lacidipine = Pacritinib = Tetrabenazine = Cocaine (Topical) = Lapatinib = Paliperidone = Trazodone = Degarelix = Lefamulin = Panobinostat = Triclabendazole\n= Desipramine* = Leuprolide = Pasireotide = Triptorelin = Deutetrabenazine = Leuprolide- = Pefloxacin = Tropisetron! = Dexmedetomidine** norethindrone = Periciazine™ = Vardenafil = Dolasetron = Levalbuterol = Pimavanserin = Vilanterol = Donepezil = Levomethadone = Pipamperone = Vinflunine = Efavirenz = Lithium = Pitolisant = Voclosporin = Eliglustat = Loperamide\" in = Ponesimod = Vorinostat ® Eribulin overdose = Primaquine = Zuclopenthixol = Ezogabine = Lopinavir = Promazine = Macimorelin = Radotinib = Mefloquine This is not a complete list of all corrected QT interval (QTc)-prolonging drugs and does not include drugs with either a minor degree or isolated association(s) with QTc prolongation that appear to be safe in most patients but may need to be avoided in patients with congenital long QT syndrome depending upon clinical circumstances.",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_67",
+        "chunk_index": 67,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 255,
+        "char_count": 1021,
+        "source_type": "section",
+        "section_title": "Palliative Care",
+        "page_range": "21-35"
+      }
+    },
+    {
+      "text": "A more complete list of such drugs is available at the CredibleMeds website. For clinical use and precautions related to medications and drug interactions, refer to the UpToDate topic review of acquired long QT syndrome discussion of medications and the Lexicomp drug interactions tool. AV: atrioventricular; IV: intravenous; QTc: rate-corrected QT interval on the electrocardiogram. * Classifications provided by Lexicomp according to US Food & Drug Administration guidance: Clinical Evaluation of QT/QTc Interval Prolongation and Proarrhythic Potential for Non- Antiarrhythmic Drugs - Questions and Answers; Guidance for Industry US Food and Drug Administration, June 2017 (revision 2) available at: https://www.fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/UC M073161.pdf as updated August 8, 2023 (https://www.fda.gov/media/170814/download) with additional data from CredibleMeds QT drugs list!\"-2). The use of other classification criteria may lead to some agents being classified differently by other sources. { Not available in the United States.",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_68",
+        "chunk_index": 68,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 270,
+        "char_count": 1081,
+        "source_type": "section",
+        "section_title": "Palliative Care",
+        "page_range": "21-35"
+      }
+    },
+    {
+      "text": "The use of other classification criteria may lead to some agents being classified differently by other sources. { Not available in the United States. A In contrast with other class III antiarrhythmic drugs, amiodarone is rarely associated with torsades de pointes; refer to accompanying text within UpToDate topic reviews of acquired long QT syndrome. © Withdrawn from market in most countries due to adverse cardiovascular effects. § IV amisulpride antiemetic use is associated with less QTc prolongation than the higher doses administered orally as an antipsychotic. ¥ Some other cyclic antidepressants (ie, amoxapine, maprotiline, protriptyline, trimipramine) may also prolong the QT interval, but data are insufficient to identify level of risk with confidence; refer to UpToDate content on cyclic antidepressant pharmacology, administration, and side effects. + The \"low risk\" category includes drugs with limited evidence of clinically significant QTc prolongation or TdP risk; many of these drugs have label warnings regarding possible QTc effects or",
+      "metadata": {
+        "book_id": "H3Payb6LGB7uXHd1KPv9Z",
+        "book_name": "CML AP Rx",
+        "category": "non_chapter",
+        "chunk_id": "H3Payb6LGB7uXHd1KPv9Z_chunk_69",
+        "chunk_index": 69,
+        "chunk_type": "text",
+        "has_overlap": true,
+        "token_estimate": 264,
+        "char_count": 1057,
+        "source_type": "section",
+        "section_title": "Palliative Care",
+        "page_range": "21-35"
+      }
+    }
+  ]
+}

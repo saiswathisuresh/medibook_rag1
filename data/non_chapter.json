@@ -1,0 +1,203 @@
+{
+  "book_title": "Gynecologic Oncology",
+  "chapters": [
+    {
+      "chapter": 1,
+      "heading": "Biology and Genetics",
+      "subheadings": [
+        "Introduction",
+        "Mechanisms of Transformation",
+        "Invasion and Metastasis",
+        "Hereditary Syndromes",
+        "Endometrial Cancer",
+        "Ovarian Cancer",
+        "Cervical Cancer"
+      ]
+    },
+    {
+      "chapter": 2,
+      "heading": "Cancer Screening in Women",
+      "subheadings": [
+        "Introduction",
+        "Breast Cancer Screening",
+        "Cervical Cancer Screening",
+        "Ovarian Cancer Screening"
+      ]
+    },
+    {
+      "chapter": 3,
+      "heading": "Tumor Markers in Gynecological Oncology",
+      "subheadings": [
+        "Introduction",
+        "Serum Tumor Markers",
+        "Clinical Applications",
+        "Limitations"
+      ]
+    },
+    {
+      "chapter": 4,
+      "heading": "Epidemiology",
+      "subheadings": [
+        "Introduction",
+        "Risk Factors",
+        "Incidence and Mortality",
+        "Prevention"
+      ]
+    },
+    {
+      "chapter": 5,
+      "heading": "Biological Therapy for Gynecologic Cancers",
+      "subheadings": [
+        "Introduction",
+        "Targeted Therapy",
+        "Angiogenesis Inhibitors",
+        "Immunotherapy"
+      ]
+    },
+    {
+      "chapter": 6,
+      "heading": "Chemotherapy in Gynecologic Oncology",
+      "subheadings": [
+        "Principles of Chemotherapy",
+        "Common Drug Regimens",
+        "Toxicity and Side Effects"
+      ]
+    },
+    {
+      "chapter": 7,
+      "heading": "Radiation Therapy",
+      "subheadings": [
+        "Principles of Radiation",
+        "External Beam Radiation",
+        "Brachytherapy",
+        "Side Effects"
+      ]
+    },
+    {
+      "chapter": 8,
+      "heading": "Cervical Intra-Epithelial Neoplasia",
+      "subheadings": [
+        "Introduction",
+        "Classification",
+        "Diagnosis",
+        "Management"
+      ]
+    },
+    {
+      "chapter": 9,
+      "heading": "Cervical Cancer",
+      "subheadings": [
+        "Epidemiology",
+        "Staging",
+        "Treatment"
+      ]
+    },
+    {
+      "chapter": 10,
+      "heading": "Uterine Epithelial Cancer",
+      "subheadings": [
+        "Pathology",
+        "Staging",
+        "Management"
+      ]
+    },
+    {
+      "chapter": 11,
+      "heading": "Uterine Sarcomas",
+      "subheadings": [
+        "Types of Sarcomas",
+        "Diagnosis",
+        "Treatment"
+      ]
+    },
+    {
+      "chapter": 12,
+      "heading": "Epithelial Ovarian Cancer",
+      "subheadings": [
+        "Pathogenesis",
+        "Staging",
+        "Treatment"
+      ]
+    },
+    {
+      "chapter": 13,
+      "heading": "Fallopian Tube Carcinoma",
+      "subheadings": [
+        "Clinical Features",
+        "Diagnosis",
+        "Management"
+      ]
+    },
+    {
+      "chapter": 14,
+      "heading": "Ovarian Sex Cord-Stromal Tumors",
+      "subheadings": [
+        "Tumor Types",
+        "Clinical Presentation",
+        "Treatment"
+      ]
+    },
+    {
+      "chapter": 15,
+      "heading": "Germ Cell and Metastatic Tumors of the Ovary",
+      "subheadings": [
+        "Germ Cell Tumors",
+        "Metastatic Tumors",
+        "Management"
+      ]
+    },
+    {
+      "chapter": 16,
+      "heading": "Vulvar Cancer",
+      "subheadings": [
+        "Epidemiology",
+        "Diagnosis",
+        "Treatment"
+      ]
+    },
+    {
+      "chapter": 17,
+      "heading": "Vaginal Cancer",
+      "subheadings": [
+        "Clinical Features",
+        "Diagnosis",
+        "Treatment"
+      ]
+    },
+    {
+      "chapter": 18,
+      "heading": "Gestational Trophoblastic Disease",
+      "subheadings": [
+        "Types",
+        "Diagnosis",
+        "Management"
+      ]
+    },
+    {
+      "chapter": 19,
+      "heading": "Supportive Care: Nutrition and Growth Factors",
+      "subheadings": [
+        "Nutritional Support",
+        "Hematopoietic Growth Factors"
+      ]
+    },
+    {
+      "chapter": 20,
+      "heading": "Surgical Techniques in Gynecologic Oncology",
+      "subheadings": [
+        "Grafts and Flaps",
+        "Laparoscopy",
+        "Surgical Procedures"
+      ]
+    },
+    {
+      "chapter": 21,
+      "heading": "Palliative Care",
+      "subheadings": [
+        "Principles of Palliative Care",
+        "Symptom Management",
+        "End of Life Care"
+      ]
+    }
+  ]
+}
