@@ -14,6 +14,7 @@ GROK_URL = "https://api.x.ai/v1/chat/completions"
 COLLECTION_NAME = "medical_chunks"
 EMBEDDING_MODEL = "BAAI/bge-small-en"
 
+
 # ✅ Add Qdrant + Embedder
 qdrant = QdrantClient(url=QDRANT_URL)
 embedder = TextEmbedding(model_name=EMBEDDING_MODEL)
